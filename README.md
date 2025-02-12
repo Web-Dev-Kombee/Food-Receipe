@@ -20,8 +20,8 @@ A modern React application that helps users discover and explore food recipes. B
 ## Getting Started
 
 1. Clone the repository
-2. Install dependencies: `npm install`
-3. Start development server: `npm run dev`
+2. Install dependencies: `pnpm install`
+3. Start development server: `pnpm run dev`
 
 ## API
 
