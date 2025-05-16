@@ -47,11 +47,11 @@ FOOD-RECIPE/
 
 ### 🧾 Home Page
 Displays recipe cards with names, thumbnails, and a button to view the full recipe.
-./src/components/assets/Food.png
+![Food Page](assets/Food.png)
 
 ### 🧾 Recipe Details Page
 Displays the complete recipe with image, cook time, servings, tags (e.g., vegetarian, vegan), cost, and instructions.
-./src/components/assets/Food-Filter.png
+![Filter Page](assets/Food-Filter.png)
 
 
 ## 🛠️ Installation
